@@ -17,5 +17,12 @@
     {
       "path": "dist/styles.css"
     }
+  ],
+  "preloadedDependencies": [
+    {
+      "machineName": "FontKidsLoop",
+      "majorVersion": 1,
+      "minorVersion": 0
+    }
   ]
 }
